@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5CDA9FBF-6D1D-72F3-CBA1-DA6735A9E9D4}|ToolRentalApi.csproj|c:\\users\\\u043A\u043F\u043A\\desktop\\prog\\denis\\toolrentalapi \u2013 \u0437\u0430\u0432\u0434 3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CDA9FBF-6D1D-72F3-CBA1-DA6735A9E9D4}|ToolRentalApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5CDA9FBF-6D1D-72F3-CBA1-DA6735A9E9D4}|ToolRentalApi.csproj|c:\\users\\\u043A\u043F\u043A\\desktop\\prog\\denis\\toolrentalapi \u2013 \u0437\u0430\u0432\u0434 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CDA9FBF-6D1D-72F3-CBA1-DA6735A9E9D4}|ToolRentalApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -125,10 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5CDA9FBF-6D1D-72F3-CBA1-DA6735A9E9D4}|ToolRentalApi.csproj|c:\\users\\\u043A\u043F\u043A\\desktop\\prog\\denis\\toolrentalapi \u2013 \u0437\u0430\u0432\u0434 3\\toolrentalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5CDA9FBF-6D1D-72F3-CBA1-DA6735A9E9D4}|ToolRentalApi.csproj|solutionrelative:toolrentalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CDA9FBF-6D1D-72F3-CBA1-DA6735A9E9D4}|ToolRentalApi.csproj|c:\\users\\\u043A\u043F\u043A\\desktop\\prog\\denis\\toolrentalapi \u2013 \u0437\u0430\u0432\u0434 3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5CDA9FBF-6D1D-72F3-CBA1-DA6735A9E9D4}|ToolRentalApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 27,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -154,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "RegisterRequest.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Models\\Auth\\RegisterRequest.cs",
               "RelativeDocumentMoniker": "Models\\Auth\\RegisterRequest.cs",
@@ -166,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "ToolRentalApi.csproj",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\ToolRentalApi.csproj",
               "RelativeDocumentMoniker": "ToolRentalApi.csproj",
@@ -174,11 +174,12 @@
               "RelativeToolTip": "ToolRentalApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-25T14:11:05.575Z"
+              "WhenOpened": "2025-11-25T14:11:05.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "TestController.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\TestController.cs",
               "RelativeDocumentMoniker": "TestController.cs",
@@ -190,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -202,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "Services\\TokenService.cs",
@@ -214,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "LoginResponse.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Models\\Auth\\LoginResponse.cs",
               "RelativeDocumentMoniker": "Models\\Auth\\LoginResponse.cs",
@@ -226,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Models\\Auth\\LoginRequest.cs",
               "RelativeDocumentMoniker": "Models\\Auth\\LoginRequest.cs",
@@ -238,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Models\\JwtSettings.cs",
               "RelativeDocumentMoniker": "Models\\JwtSettings.cs",
@@ -250,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "RentalService.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Services\\RentalService.cs",
               "RelativeDocumentMoniker": "Services\\RentalService.cs",
@@ -262,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "Services\\CategoryService.cs",
@@ -274,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
@@ -286,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IRentalService.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Services\\Interfaces\\IRentalService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IRentalService.cs",
@@ -294,12 +295,11 @@
               "RelativeToolTip": "Services\\Interfaces\\IRentalService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T02:44:01.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T02:44:01.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Services\\Interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\ICategoryService.cs",
@@ -311,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Services\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
@@ -323,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -331,11 +331,12 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-25T02:40:41.334Z"
+              "WhenOpened": "2025-11-25T02:40:41.334Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ToolService.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Services\\ToolService.cs",
               "RelativeDocumentMoniker": "Services\\ToolService.cs",
@@ -347,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "IToolService.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Services\\Interfaces\\IToolService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IToolService.cs",
@@ -359,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\GenericRepository.cs",
@@ -371,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Repositories\\Interfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\IGenericRepository.cs",
@@ -383,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MongoDbContext.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Data\\MongoDbContext.cs",
               "RelativeDocumentMoniker": "Data\\MongoDbContext.cs",
@@ -395,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "RentalsController.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Controllers\\RentalsController.cs",
               "RelativeDocumentMoniker": "Controllers\\RentalsController.cs",
@@ -407,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ToolsController.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Controllers\\ToolsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ToolsController.cs",
@@ -419,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
@@ -431,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
@@ -443,20 +444,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T00:51:49.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "RentalValidator.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Validators\\RentalValidator.cs",
               "RelativeDocumentMoniker": "Validators\\RentalValidator.cs",
@@ -468,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "ToolValidator.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Validators\\ToolValidator.cs",
               "RelativeDocumentMoniker": "Validators\\ToolValidator.cs",
@@ -480,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "InMemoryDatabase.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Data\\InMemoryDatabase.cs",
               "RelativeDocumentMoniker": "Data\\InMemoryDatabase.cs",
@@ -492,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Rental.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Models\\Rental.cs",
               "RelativeDocumentMoniker": "Models\\Rental.cs",
@@ -504,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -516,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Tool.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Models\\Tool.cs",
               "RelativeDocumentMoniker": "Models\\Tool.cs",
@@ -528,7 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\prog\\Denis\\ToolRentalApi \u2013 \u0437\u0430\u0432\u0434 3\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",

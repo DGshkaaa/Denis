@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rp36jQeb1Kg=",
+  "dgSpecHash": "CaYxYmaAgXM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\кпк\\Desktop\\ToolRentalApi – завд 3\\ToolRentalApi.csproj",
+  "projectFilePath": "C:\\Users\\кпк\\Desktop\\prog\\Denis\\ToolRentalApi – завд 3\\ToolRentalApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\кпк\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\кпк\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",

@@ -116,4 +116,12 @@ using (var scope = app.Services.CreateScope())
     }
 }
 
+
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(Int32.Parse(port));
+});
+
 app.Run();

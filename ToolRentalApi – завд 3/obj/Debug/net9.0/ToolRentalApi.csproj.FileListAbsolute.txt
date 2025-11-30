@@ -1,0 +1,130 @@
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.csproj.AssemblyReference.cache
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.AssemblyInfoInputs.cache
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.AssemblyInfo.cs
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.csproj.CoreCompileInputs.cache
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\кпк\ToolRentalApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\кпк\ToolRentalApi\bin\Debug\net9.0\appsettings.json
+C:\Users\кпк\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi\appsettings.Development.json
+C:\Users\кпк\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi\appsettings.json
+C:\Users\кпк\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi\obj\project.assets.json
+C:\Users\кпк\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi\obj\ToolRentalApi.csproj.nuget.dgspec.json
+C:\Users\кпк\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi\Properties\launchSettings.json
+C:\Users\кпк\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi.staticwebassets.endpoints.json
+C:\Users\кпк\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi.exe
+C:\Users\кпк\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi.deps.json
+C:\Users\кпк\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi.runtimeconfig.json
+C:\Users\кпк\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi.dll
+C:\Users\кпк\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi.pdb
+C:\Users\кпк\ToolRentalApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\кпк\ToolRentalApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\кпк\ToolRentalApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\кпк\ToolRentalApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\scopedcss\bundle\ToolRentalApi.styles.css
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\ToolRent.C43C8EE8.Up2Date
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.dll
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\refint\ToolRentalApi.dll
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.pdb
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.genruntimeconfig.cache
+C:\Users\кпк\ToolRentalApi\obj\Debug\net9.0\ref\ToolRentalApi.dll
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\appsettings.json
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi\appsettings.Development.json
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi\appsettings.json
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi\obj\project.assets.json
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi\obj\ToolRentalApi.csproj.nuget.dgspec.json
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi\Properties\launchSettings.json
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi.staticwebassets.endpoints.json
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi.exe
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi.deps.json
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi.runtimeconfig.json
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi.dll
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\ToolRentalApi.pdb
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\кпк\Desktop\ToolRentalApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.csproj.AssemblyReference.cache
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.AssemblyInfoInputs.cache
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.AssemblyInfo.cs
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.csproj.CoreCompileInputs.cache
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\scopedcss\bundle\ToolRentalApi.styles.css
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\ToolRent.C43C8EE8.Up2Date
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.dll
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\refint\ToolRentalApi.dll
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.pdb
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\ToolRentalApi.genruntimeconfig.cache
+C:\Users\кпк\Desktop\ToolRentalApi\obj\Debug\net9.0\ref\ToolRentalApi.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\ToolRentalApi.csproj.AssemblyReference.cache
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\ToolRentalApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\ToolRentalApi.AssemblyInfoInputs.cache
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\ToolRentalApi.AssemblyInfo.cs
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\ToolRentalApi.csproj.CoreCompileInputs.cache
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\ToolRentalApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\ToolRentalApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\ToolRentalApi.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\refint\ToolRentalApi.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\ToolRentalApi.pdb
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\ToolRentalApi\appsettings.Development.json
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\ToolRentalApi\appsettings.json
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\ToolRentalApi\obj\project.assets.json
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\ToolRentalApi\obj\ToolRentalApi.csproj.nuget.dgspec.json
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\ToolRentalApi\Properties\launchSettings.json
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\ToolRentalApi.staticwebassets.endpoints.json
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\appsettings.json
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\ToolRentalApi.exe
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\ToolRentalApi.deps.json
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\ToolRentalApi.runtimeconfig.json
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\ToolRentalApi.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\ToolRentalApi.pdb
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\DnsClient.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\Snappier.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\scopedcss\bundle\ToolRentalApi.styles.css
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\ToolRent.C43C8EE8.Up2Date
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\ToolRentalApi.genruntimeconfig.cache
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\obj\Debug\net9.0\ref\ToolRentalApi.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\кпк\Desktop\ToolRentalApi – завд 3\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
